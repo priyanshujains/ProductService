@@ -1,5 +1,5 @@
 Product Service
-Overview
+
 The Product Service is a microservice that manages product information in an e-commerce application. 
 
 It is designed to:
